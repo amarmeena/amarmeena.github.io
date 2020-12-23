@@ -1,1 +1,0 @@
-Amar Meena's Resume Website using React
