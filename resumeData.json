@@ -157,6 +157,12 @@
   "certifications":{
     "certificate": [
       {
+        "title": "CSPO Certified (Scrum Alliance)",
+        "category": "Product Management",
+        "image": "cspo.jpg",
+        "url": "http://bcert.me/sqkretgxx"
+      },
+      {
         "title": "Python for Data Science and Machine Learning Bootcamp",
         "category": "Analytics",
         "image": "UC-2H5OS8VF.jpg",
@@ -185,9 +191,13 @@
   "testimonials":{
     "testimonials":[
       {
+        "text":"Amar and I worked together for a couple of years on the same team, and later at the same firm on different teams. While I was an intern and first year analyst, Amar was my go to partner. We worked on numerous projects together, and I wouldn't be the analyst I am today without that experience. Amar's drive and curiosity has always been inspirational to me, and I try to emulate him in every role I serve. Constantly asking the questions that others are afraid to ask, Amar has designed and implemented ideas that many would have thought impossible. Well after me and Amar were no longer teammates at Inmar, I still reach out to him for ideas and opinions on various issues I face, both professionally and personally. Amar is someone that went from great coworker to great friend, and I wouldn't have it any other way! Above all others, I'm excited to see where Amar goes, and what solutions he provides moving forward. Throw your most difficult problems at him, I bet he'll surprise you!",
+        "user":"Clayton Doss (Senior Financial Analyst @ INTURN)"
+      },
+      {
         "text":"I have not had the opportunity to work with Amar on a project since we are in different verticals but I often find myself seeking his guidance with technical issues related to python or development. He absorbs information very quickly and is a fast learner. He has a natural ability for the technical side of data science. While I seek him out for technical questions, he is also a good communicator and a good project manager. I would love the opportunity to work with Amar in the near future and would recommend him without reservations.",
         "user":"Shubh Khetan (Data Analytics Manager @ Inmar Intelligence)"
-      }
+      }      
     ]
   }
 }
