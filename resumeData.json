@@ -5,7 +5,7 @@
     "description":"I bring Product Management expertise of building Machine Learning/Artificial Intelligence based web-applications to solve real-life problems",
     "image":"profilepic.jpeg",
     "bio":"Professionally, a Product Manager, and after 5, a musician, coder, soccer player, tech-nerd, Googler, and dad to the most adorable Beagle.",
-    "contactmessage":"If you would like to get in touch please submit the form below and I will respond back as soon as possible.",
+    "contactmessage":"Warning: Contact form not yet configured, please contact me via regular email (amarmeena1992@gmail.com) for now",
     "email": "amarmeena1992@gmail.com",
     "phone": "336-473-4778",
     "address":{
@@ -14,7 +14,7 @@
       "zip": " "
     },
     "website": "http://www.amarmeena.com",
-    "resumedownload":"http://amarmeena.com/resumedownload",
+    "resumedownload":"http://amarmeena.github.io/amar_meena_resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -74,7 +74,7 @@
         "company":"Inmar Intelligence",
         "title":"Product Manager",
         "years":"Feb 2019 - Present",
-        "description":"Managed entire life cycles for 3 big data Healthcare Analytics (SaaS) products in an agile startup setting. \n\u2022 Coordinated product launches and on-boarded top US pharmacies to generate over $2million in revenue, beating the first-year revenue target by 900%. \n\u2022 Wire-framed several product prototypes, introduced scalable technologies, and improved data warehouse designs to deliver 75x faster and more user-friendly experience. \n\u2022 Gathered customer feedback to translate business-to-technical requirements, prioritized product backlog, and led daily stand-ups to improve product velocity, quality, and happier customers. \n\u2022 Influenced stakeholders, data scientists, and engineers to align goals, address roadblocks, and streamline product development."
+        "description":"Developed scalable SaaS products using over 10 Terabytes of pharmaceutical claims data, generating over $2million in revenue, beating the first-year revenue target by 900%. \n\u2022 Built solid relationships with the clients during the product development cycle to develop SaaS solutions that solve their critical needs. \n\u2022 Introduced big-data technologies to the organization to make queries 75x faster resulting in excellent user experience. \n\u2022 Built and managed data-warehouse and associated ETL processes written in SQL, PySpark, and Python. \n\u2022 Tracked and managed code changes across the team using source control via GitHub. \n\u2022 Implemented Agile methodologies, managed JIRA board, led daily stand-ups, cleared roadblocks, and mentored teammates in learning new technologies."
       },
       {
         "company":"Inmar Intelligence",
@@ -157,6 +157,12 @@
   "certifications":{
     "certificate": [
       {
+        "title": "CSPO Certified",
+        "category": "Product Management",
+        "image": "cspo.jpg",
+        "url": "http://bcert.me/sqkretgxx"
+      },
+      {
         "title": "Python for Data Science and Machine Learning Bootcamp",
         "category": "Analytics",
         "image": "UC-2H5OS8VF.jpg",
@@ -169,6 +175,12 @@
         "url": "https://www.udemy.com/certificate/UC-MZ87AOKG/"
       },
       {
+        "title": "Advanced Looker Developer Virtual Bootcamp",
+        "category": "Analytics",
+        "image": "8brn7qq733ec.jpg",
+        "url": "https://verify.skilljar.com/c/8brn7qq733ec"
+      },
+      {
         "title": "Analysis Fundamentals with Tableau (Pluralsight #4127)",
         "category": "Analytics",
         "image": "noimage.png",
@@ -176,16 +188,16 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "recommendations":{
+    "recommendations":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Amar and I worked together for a couple of years on the same team, and later at the same firm on different teams. While I was an intern and first year analyst, Amar was my go to partner. We worked on numerous projects together, and I wouldn't be the analyst I am today without that experience. Amar's drive and curiosity has always been inspirational to me, and I try to emulate him in every role I serve. Constantly asking the questions that others are afraid to ask, Amar has designed and implemented ideas that many would have thought impossible. Well after me and Amar were no longer teammates at Inmar, I still reach out to him for ideas and opinions on various issues I face, both professionally and personally. Amar is someone that went from great coworker to great friend, and I wouldn't have it any other way! Above all others, I'm excited to see where Amar goes, and what solutions he provides moving forward. Throw your most difficult problems at him, I bet he'll surprise you!",
+        "user":"Clayton Doss (Senior Financial Analyst @ INTURN)"
       },
       {
-        "text":"That Amar Meena must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-      }
+        "text":"I have not had the opportunity to work with Amar on a project since we are in different verticals but I often find myself seeking his guidance with technical issues related to python or development. He absorbs information very quickly and is a fast learner. He has a natural ability for the technical side of data science. While I seek him out for technical questions, he is also a good communicator and a good project manager. I would love the opportunity to work with Amar in the near future and would recommend him without reservations.",
+        "user":"Shubh Khetan (Data Analytics Manager @ Inmar Intelligence)"
+      }      
     ]
   }
 }
